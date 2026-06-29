@@ -62,8 +62,6 @@ Patients with glucose > 140 mg/dL (diabetic tier) show significantly elevated st
 ### Finding 4 — Work type predicts access to care
 Self-employed and Private sector workers have higher stroke rates, likely driven by delayed care-seeking and stress. Govt_job workers — who have health insurance access — have lower rates.
 
-### Finding 5 — Risk scoring works at triage
-A simple 0–9 point score (using age, hypertension, heart disease, glucose, BMI, smoking) separates "Critical" patients from "Low" risk with high accuracy — no machine learning required. This can be printed on a triage card.
 
 
 ---
